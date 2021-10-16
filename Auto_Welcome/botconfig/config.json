@@ -1,0 +1,7 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "+",
+    "return_if_unknown_command": false,
+    "owners": [],
+    "show_bot_invite": true
+  }
